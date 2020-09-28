@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T07:01:03.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zRs2IzEMmvQ6lxkkjcny" version="13.6.2" type="github"><diagram id="ypfnsHQGbwsw46qAP1X9" name="Page-1">3ZZRb5swEMc/DdL2EAniQNrHNUnbh2zaFG17duECbgzHzBFIP/1MbEIQadY8VI32kti/O3O+/90hHDZL6wfF8+QrRiCdsRvVDps74/F06unfBuwM8NnUgFiJyCCvAyvxAha6lpYigqLnSIiSRN6HIWYZhNRjXCms+m5rlP2oOY9hAFYhl0P6W0SUGHrjux1/BBEnbWTPtZaUt84WFAmPsDpCbOGwmUIks0rrGchGu1YXc+7+FevhYgoyesuBHznzb0j+8qvZy2Y3KvgzK0e+ecqWy9ImbC9Lu1YBiLQgdouKEowx43LR0TuFZRZBE8bVu85niZhr6Gn4DEQ7W11eEmqUUCqt1cRsAr2am0UFliqEMwm1PcJVDHTGjx0qoDsXMAVSO31OgeQktv17cNtD8cGvk1kvrNIXqO4NVP+2mi+dcSD1le+elF7FzWp2kn6aQ46FIFQCis9D+6CC/fpUiSBY5XwvY6WH9lQttqAI6vPVGKpnD0xsx9uRZ3ZbdfPjtUORHM1O4L6T3MH/1uTsjU0++cgmZydUN626Rp3wsfzBnxJbw6jYC/hFO3huXnfGtr0P3d+k8p0rEqHIefPEwaAsxQb2gTDc6P8nhRtQOs/7k1NjiM7V3O9KhmnsBdc1TZNBXX8WH64Su72yd87tv985F2nEpYgzvZawpnd5Sx/kOZIsCE5IxvzLNdPb7kNnbzv6WmSLvw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-28T13:51:52.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="EfQdp-Ih2WeSryybCTVo" version="13.6.2" type="github" pages="2">
+  <diagram id="ypfnsHQGbwsw46qAP1X9" name="Page-1">
+    <mxGraphModel dx="771" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qp358tlV5wCzky-saj3u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qp358tlV5wCzky-saj3u-1" target="Qp358tlV5wCzky-saj3u-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="632Un2HrYZAmTkf_AZqY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qp358tlV5wCzky-saj3u-1" target="632Un2HrYZAmTkf_AZqY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp358tlV5wCzky-saj3u-1" value="NSDL&lt;br&gt;CDSL&lt;br&gt;(Depositories)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp358tlV5wCzky-saj3u-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qp358tlV5wCzky-saj3u-3" target="Qp358tlV5wCzky-saj3u-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="632Un2HrYZAmTkf_AZqY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qp358tlV5wCzky-saj3u-3" target="632Un2HrYZAmTkf_AZqY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp358tlV5wCzky-saj3u-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Depository Participant&lt;br&gt;(Like stock brokers? Zerodha etc)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="196" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qp358tlV5wCzky-saj3u-4" value="Us" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="632Un2HrYZAmTkf_AZqY-3" value="Intermediaries needed to interact with depositories&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="632Un2HrYZAmTkf_AZqY-5" value="Where our stocks are present - electronically" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="632Un2HrYZAmTkf_AZqY-8" value="Where are stocks stored and how to interact ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="360" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UX798nK_Bkk0Oik0uh7h" name="Page-2">
+    <mxGraphModel dx="771" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="JayWml7-g7aGI4l34Klm-0" />
+        <mxCell id="JayWml7-g7aGI4l34Klm-1" parent="JayWml7-g7aGI4l34Klm-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
